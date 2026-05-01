@@ -128,7 +128,7 @@
                     <div class="rounded-2xl bg-base-200 border border-base-300 p-4 text-center">
                         <p class="text-sm text-base-content/60">
                             Authentifizierung über
-                            <span class="font-bold text-base-content">mentix.pandaric.de</span>
+                            <a href="https://mentix.pandaric.de" class="font-bold text-base-content">mentix.pandaric.de</a>
                         </p>
                     </div>
 
